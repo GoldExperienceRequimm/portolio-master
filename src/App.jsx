@@ -9,8 +9,8 @@ import HeroSection from "./Components/HeroSection";
 import Skills from "./Components/Skills";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
-import Footer from "./components/Footer";
-import ProjectDetails from "./Components/ProjectDetails";
+import Footer from "./Components/Footer"
+import ProjectDetails from "./Components/ProjectDetails"
 import styled from "styled-components";
 
 const darkTheme = {
