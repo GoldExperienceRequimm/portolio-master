@@ -7,10 +7,10 @@ import { BrowserRouter as Router } from "react-router-dom";
 import HeroSection from "./Components/HeroSection";
 // import About from "./components/About";
 import Skills from "./Components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
 import Footer from "./components/Footer";
-import ProjectDetails from "./components/ProjectDetails";
+import ProjectDetails from "./Components/ProjectDetails";
 import styled from "styled-components";
 
 const darkTheme = {
