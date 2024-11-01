@@ -106,7 +106,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "../../public/icons8-postman-is-the-only-complete-api-development-environment-24.png",
+          "publicicons8-postman-is-the-only-complete-api-development-environment-24.png",
       },
     ],
   },
