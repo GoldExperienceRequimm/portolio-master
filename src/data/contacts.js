@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Eshan",
+  name: "Eshan Momin",
   roles: ["Full Stack Developer", "UI/UX Designer", "Game Developer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -63,7 +63,7 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image: "../../public/icons8-express-js.svg",
+        image: "../../public/icons8-express-js-64.png",
       },
       {
         name: "MySQL",
