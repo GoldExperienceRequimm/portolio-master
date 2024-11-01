@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Es",
+  name: "Eshan",
   roles: ["Full Stack Developer", "UI/UX Designer", "Game Developer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -117,18 +117,10 @@ export const projects = [
     id: 0,
     title: "Netflix-UI",
     date: "Oct 2023 - Present",
-    description:
-      "i design the ui that is identical to Netflix page.",
+    description: "i design the ui that is identical to Netflix page.",
     image:
       "https://pimwp.s3-accelerate.amazonaws.com/2021/09/netflixrainbow.jpeg",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "FireBase",
-    ],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "FireBase"],
     category: "web app",
     github: "/",
     webapp: "https://netflix-demo-ui.vercel.app/login",
@@ -151,8 +143,10 @@ export const projects = [
     id: 2,
     title: "World wise",
     date: "Dec 2023",
-    description: "developed an app to mark your favourite destination that you want to visit.",
-    image: "https://img.freepik.com/free-vector/world-map-business-infographic_52683-26898.jpg?w=1380&t=st=1726311925~exp=1726312525~hmac=44b7f649463ed8edc0545dc816186db16d8d3e4db1547c2ad5d9f4591beb81f9",
+    description:
+      "developed an app to mark your favourite destination that you want to visit.",
+    image:
+      "https://img.freepik.com/free-vector/world-map-business-infographic_52683-26898.jpg?w=1380&t=st=1726311925~exp=1726312525~hmac=44b7f649463ed8edc0545dc816186db16d8d3e4db1547c2ad5d9f4591beb81f9",
     tags: ["React Js", "Leaflet api", "json-server"],
     category: "machine learning",
     github: "/",
@@ -162,11 +156,10 @@ export const projects = [
     id: 3,
     title: "Movie rating app",
     date: "2024",
-    description:
-      "a app in which you can rate your favourite moives",
+    description: "a app in which you can rate your favourite moives",
     image:
       "https://www.shutterstock.com/shutterstock/photos/2488185059/display_1500/stock-vector-cinema-movie-banner-with-pop-art-style-elements-popcorn-bucket-cold-drink-soda-with-straw-2488185059.jpg",
-    tags: ["ReactJS","Context Api","omdb Api"],
+    tags: ["ReactJS", "Context Api", "omdb Api"],
     category: "android app",
     github: "/",
     webapp: "https://goldexperiencerequimm.github.io/Movie_rate/",
@@ -175,9 +168,9 @@ export const projects = [
     id: 10,
     title: "React Quiz app",
     date: "2024",
-    description:
-      "a Quiz app where you can test your knowledge of Reactjs.",
-    image: "https://www.rentallscript.com/resources/content/images/size/w1075h650/2021/09/React--1-.gif",
+    description: "a Quiz app where you can test your knowledge of Reactjs.",
+    image:
+      "https://www.rentallscript.com/resources/content/images/size/w1075h650/2021/09/React--1-.gif",
     tags: ["React Js", "Context Api", "Redux"],
     category: "android app",
     github: "/",
