@@ -63,7 +63,7 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image: "../../public/icons8-express-js-64.png",
+        image: "../../public/icons8-express-js-40.png",
       },
       {
         name: "MySQL",
