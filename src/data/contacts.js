@@ -87,7 +87,7 @@ export const skills = [
     skills: [
       {
         name: "Git",
-        image: "../../public/icons8-git.svg",
+        image: "https://git-scm.com/images/logos/logomark-orange@2x.png",
       },
       {
         name: "GitHub",
